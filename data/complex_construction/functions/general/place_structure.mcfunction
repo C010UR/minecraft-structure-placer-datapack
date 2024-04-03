@@ -1,0 +1,4 @@
+execute if entity @a[tag=complex_construction_raycaster,nbt={SelectedItem: {tag: {structure: "complex_construction:botany_pot"}}}] run place template complex_construction:compact_machine_botany_pot ~-6 ~1 ~
+execute if entity @a[tag=complex_construction_raycaster,nbt={SelectedItem: {tag: {structure: "complex_construction:inscriber"}}}] run place template complex_construction:compact_machineinscriber ~-6 ~1 ~
+execute if entity @a[tag=complex_construction_raycaster,nbt={SelectedItem: {tag: {structure: "complex_construction:latex_production"}}}] run place template complex_construction:compact_machine_latex_production ~-6 ~1 ~
+execute if entity @a[tag=complex_construction_raycaster,nbt={SelectedItem: {tag: {structure: "complex_construction:molecular_assembly"}}}] run place template complex_construction:compact_machine_molecular_assembly ~-6 ~1 ~

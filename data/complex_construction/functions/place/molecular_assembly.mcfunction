@@ -1,6 +1,5 @@
 # Place a structure
-tellraw @s {"text": "Placing Molecular Assembly Structure", "color": "#27ae60"}
-# place template complex_construction:compact_machine_molecular_assembly ^-6 ^ ^
+tellraw @s {"text": "Placing Molecular Assembly Structure", "color": "#ecf0f1"}
 
 function complex_construction:general/reset_click
 

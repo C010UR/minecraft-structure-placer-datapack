@@ -1,6 +1,6 @@
 {
     "values": [
-        "cc_raycaster:load",
+        "cc_raycast:load",
         "complex_construction:load"
     ]
 }
