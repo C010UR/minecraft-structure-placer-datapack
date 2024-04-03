@@ -1,0 +1,1 @@
+scoreboard objectives add complex_construction_casttemp dummy

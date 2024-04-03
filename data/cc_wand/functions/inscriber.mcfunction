@@ -1,0 +1,1 @@
+give @p minecraft:carrot_on_a_stick{structure: "complex_construction:inscriber", Enchantments: [], display: {Name: '{"text":"Inscriber Wand","color":"#34495e"}'}}

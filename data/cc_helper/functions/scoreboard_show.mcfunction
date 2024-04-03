@@ -1,0 +1,1 @@
+scoreboard objectives setdisplay sidebar complex_construction_total_debt
