@@ -15,7 +15,7 @@ scoreboard players add @s complex_construction_debt_industrialforegoing_efficien
 scoreboard players add @s complex_construction_debt_industrialforegoing_fluid_extractor 324
 scoreboard players add @s complex_construction_debt_industrialforegoing_processing_2 324
 scoreboard players add @s complex_construction_debt_industrialforegoing_speed_2 324
-scoreboard players add @s complex_construction_debt_mekanism_infinite_logistical_transporter 103
+scoreboard players add @s complex_construction_debt_mekanism_infinite_logistical_transporter 115
 scoreboard players add @s complex_construction_debt_mekanism_infinite_mechanical_pipe 361
 scoreboard players add @s complex_construction_debt_mekanism_infinite_universal_cable 272
 scoreboard players add @s complex_construction_debt_cyclic_placer 108
