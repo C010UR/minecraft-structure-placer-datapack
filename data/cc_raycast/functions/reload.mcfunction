@@ -1,0 +1,3 @@
+scoreboard objectives remove complex_construction_casttemp
+
+function cc_raycast:load

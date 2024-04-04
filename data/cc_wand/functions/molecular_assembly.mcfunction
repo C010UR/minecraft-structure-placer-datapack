@@ -1,1 +1,1 @@
-give @p minecraft:carrot_on_a_stick{structure: "complex_construction:molecular_assembly", Enchantments: [], display: {Name: '{"text":"Molecular Assembly Wand","color":"#ecf0f1"}'}}
+give @p minecraft:carrot_on_a_stick{structure: "complex_construction:molecular_assembly", Enchantments: [], display: {Name: '{"text":"Molecular Assembly Structure Wand","color":"#ecf0f1", "italic": false}'}}

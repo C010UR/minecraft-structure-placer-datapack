@@ -1,0 +1,1 @@
+give @p minecraft:carrot_on_a_stick{structure: "complex_construction:ether_gas_production", Enchantments: [], display: {Name: '{"text":"Ether Gas Structure Wand","color":"#38ada9", "italic": false}'}}
