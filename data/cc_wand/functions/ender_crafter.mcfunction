@@ -1,0 +1,1 @@
+give @p minecraft:carrot_on_a_stick{structure: "complex_construction:ender_crafter", Enchantments: [{id:"unbreaking",lvl:5}], display: {Name: '{"text":"Ender Crafter Structure Wand","color":"#6ab04c", "italic": false}'}}

@@ -1,1 +1,1 @@
-give @p minecraft:carrot_on_a_stick{structure: "complex_construction:latex_production", Enchantments: [], display: {Name: '{"text":"Latex Production Structure Wand","color":"#0097e6", "italic": false}'}}
+give @p minecraft:carrot_on_a_stick{structure: "complex_construction:latex_production", Enchantments: [{id:"unbreaking",lvl:5}], display: {Name: '{"text":"Latex Production Structure Wand","color":"#0097e6", "italic": false}'}}

@@ -5,6 +5,8 @@
 # scoreboard objectives add click_$1_wand used:carrot_on_a_stick
 
 scoreboard players reset @s click_botany_pot_wand
+scoreboard players reset @s click_ender_crafter_wand
+scoreboard players reset @s click_flux_crafter_wand
 scoreboard players reset @s click_ether_gas_production_wand
 scoreboard players reset @s click_inscriber_wand
 scoreboard players reset @s click_latex_production_wand

@@ -1,1 +1,1 @@
-give @p minecraft:carrot_on_a_stick{structure: "complex_construction:botany_pot", Enchantments: [], display: {Name: '{"text":"Botany Pot Structure Wand","color":"#9b59b6", "italic": false}'}}
+give @p minecraft:carrot_on_a_stick{structure: "complex_construction:botany_pot", Enchantments: [{id:"unbreaking",lvl:5}], display: {Name: '{"text":"Botany Pot Structure Wand","color":"#9b59b6", "italic": false}'}}
