@@ -16,7 +16,7 @@ scoreboard players add @s complex_construction_debt_industrialforegoing_stasis_c
 scoreboard players add @s complex_construction_debt_industrialforegoing_efficiency_2 291
 scoreboard players add @s complex_construction_debt_industrialforegoing_processing_2 363
 scoreboard players add @s complex_construction_debt_industrialforegoing_speed_2 291
-scoreboard players add @s complex_construction_debt_compressium_compressed_diamond_block 18
+scoreboard players add @s complex_construction_debt_armorplus_en_diamond 18
 scoreboard players add @s complex_construction_debt_mekanism_infinite_mechanical_pipe 122
 scoreboard players add @s complex_construction_debt_mekanism_infinite_universal_cable 501
 

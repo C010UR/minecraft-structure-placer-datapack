@@ -11,7 +11,7 @@ function complex_construction:general/reset_click
 # add_debt:([_a-z0-9]+):([0-9]+)
 # scoreboard players add @s complex_construction_debt_$1 $2
 
-scoreboard players add @s complex_construction_debt_compressium_compressed_diamond_block 81
+scoreboard players add @s complex_construction_debt_armorplus_en_diamond 81
 scoreboard players add @s complex_construction_debt_extended_crafting_ender_alternator 408
 scoreboard players add @s complex_construction_debt_packagedauto_packager 9
 scoreboard players add @s complex_construction_debt_packagedauto_packager_extension 234

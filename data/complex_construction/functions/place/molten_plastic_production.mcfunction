@@ -11,7 +11,7 @@ function complex_construction:general/reset_click
 # scoreboard players add @s complex_construction_debt_$1 $2
 
 scoreboard players add @s complex_construction_debt_botanypots_creative_hopper_botany_pot 4
-scoreboard players add @s complex_construction_debt_compressium_compressed_diamond_block 4
+scoreboard players add @s complex_construction_debt_armorplus_en_diamond 4
 scoreboard players add @s complex_construction_debt_cyclic_glass_connected 230
 scoreboard players add @s complex_construction_debt_industrialforegoing_supreme_black_hole_tank 3
 scoreboard players add @s complex_construction_debt_mekanism_infinite_mechanical_pipe 310

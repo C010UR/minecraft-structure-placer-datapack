@@ -12,3 +12,4 @@ scoreboard players reset @s click_inscriber_wand
 scoreboard players reset @s click_latex_production_wand
 scoreboard players reset @s click_molecular_assembly_wand
 scoreboard players reset @s click_molten_plastic_production_wand
+scoreboard players reset @s click_laser_drill_wand
