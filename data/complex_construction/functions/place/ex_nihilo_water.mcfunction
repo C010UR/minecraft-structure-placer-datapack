@@ -2,7 +2,7 @@
 
 tellraw @s {"text": "Placing Ex Nihilio Water Structure", "color": "#a77e48"}
 
-function complex_construction:general/reset_click
+scoreboard players reset @s click_wand_tracker
 
 # Add Debt
 
@@ -12,7 +12,7 @@ function complex_construction:general/reset_click
 # scoreboard players add @s complex_construction_debt_$1 $2
 
 scoreboard players add @s complex_construction_debt_pipez_fluid_pipe 410
-scoreboard players add @s complex_construction_debt_exnihilosequentia_spruce_barrel 390
+scoreboard players add @s complex_construction_debt_exnihilosequentia_spruce_barrel 384
 scoreboard players add @s complex_construction_debt_cookingforblockheads_sink 1
 scoreboard players add @s complex_construction_debt_industrialforegoing_supreme_black_hole_tank 1
 scoreboard players add @s complex_construction_debt_mekanism_infinite_mechanical_pipe 240

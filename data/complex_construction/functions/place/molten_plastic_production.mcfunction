@@ -1,7 +1,7 @@
 # Place a structure
 tellraw @s {"text": "Placing Molten Plastic Production Structure", "color": "#1dd1a1"}
 
-function complex_construction:general/reset_click
+scoreboard players reset @s click_wand_tracker
 
 # Add Debt
 

@@ -97,21 +97,7 @@ scoreboard objectives remove complex_construction_payed_pneumaticcraft_vortex_tu
 scoreboard objectives remove complex_construction_payed_rftoolsutility_crafter3
 
 # Wand Tracker
-
-# $1 - construction name
-# wand:([_a-z0-9]+)
-# scoreboard objectives remove click_$1_wand
-
-scoreboard objectives remove click_botany_pot_wand
-scoreboard objectives remove click_ender_crafter_wand
-scoreboard objectives remove click_ether_gas_production_wand
-scoreboard objectives remove click_ex_nihilo_water_wand
-scoreboard objectives remove click_flux_crafter_wand
-scoreboard objectives remove click_inscriber_wand
-scoreboard objectives remove click_laser_drill_wand
-scoreboard objectives remove click_latex_production_wand
-scoreboard objectives remove click_molecular_assembly_wand
-scoreboard objectives remove click_molten_plastic_production_wand
+scoreboard objectives remove click_wand_tracker
 
 function complex_construction:load
 

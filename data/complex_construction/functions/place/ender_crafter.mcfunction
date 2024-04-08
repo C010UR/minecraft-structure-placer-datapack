@@ -2,7 +2,7 @@
 
 tellraw @s {"text": "Placing Ender Crafter Structure", "color": "#6ab04c"}
 
-function complex_construction:general/reset_click
+scoreboard players reset @s click_wand_tracker
 
 # Add Debt
 

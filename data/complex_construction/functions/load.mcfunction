@@ -95,20 +95,6 @@ scoreboard objectives add complex_construction_payed_pneumaticcraft_vortex_tube 
 scoreboard objectives add complex_construction_payed_rftoolsutility_crafter3 dummy
 
 # Wand Tracker
-
-# $1 - construction name
-# wand:([_a-z0-9]+)
-# scoreboard objectives add click_$1_wand used:carrot_on_a_stick
-
-scoreboard objectives add click_botany_pot_wand used:carrot_on_a_stick
-scoreboard objectives add click_ender_crafter_wand used:carrot_on_a_stick
-scoreboard objectives add click_ether_gas_production_wand used:carrot_on_a_stick
-scoreboard objectives add click_ex_nihilo_water_wand used:carrot_on_a_stick
-scoreboard objectives add click_flux_crafter_wand used:carrot_on_a_stick
-scoreboard objectives add click_inscriber_wand used:carrot_on_a_stick
-scoreboard objectives add click_laser_drill_wand used:carrot_on_a_stick
-scoreboard objectives add click_latex_production_wand used:carrot_on_a_stick
-scoreboard objectives add click_molecular_assembly_wand used:carrot_on_a_stick
-scoreboard objectives add click_molten_plastic_production_wand used:carrot_on_a_stick
+scoreboard objectives add click_wand_tracker used:carrot_on_a_stick
 
 tellraw @a {"text": "Complex Construction Loaded!", "color": "#2ecc71"}

@@ -2,7 +2,7 @@
 
 tellraw @s {"text": "Placing Laser Drill Structure", "color": "#9aeeae"}
 
-function complex_construction:general/reset_click
+scoreboard players reset @s click_wand_tracker
 
 # Add Debt
 

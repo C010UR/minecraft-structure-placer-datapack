@@ -2,7 +2,7 @@
 
 tellraw @s {"text": "Placing Inscriber Structure", "color": "#34495e"}
 
-function complex_construction:general/reset_click
+scoreboard players reset @s click_wand_tracker
 
 # Add Debt
 
